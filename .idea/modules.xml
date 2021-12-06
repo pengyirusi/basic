@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/basic.iml" filepath="$PROJECT_DIR$/.idea/basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newJavaVersionFeatures/newJavaVersionFeatures.iml" filepath="$PROJECT_DIR$/newJavaVersionFeatures/newJavaVersionFeatures.iml" />
     </modules>
   </component>
 </project>
