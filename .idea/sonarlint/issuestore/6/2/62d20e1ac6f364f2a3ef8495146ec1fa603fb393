@@ -1,0 +1,23 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ßíéüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûãÁùùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(òó—Çüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬²éÂüÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(£™îø
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(é€şüÿÿÿÿ
+I
+java:S2201$".The return value of "ofNullable" must be used.(üÇü½ÿÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(à‹ëµúÿÿÿÿ
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(‰éÚ8‡²ÓÙ/
+l
+java:S2159*"VRemove this call to "equals"; comparisons between unrelated types always return false.(‰éÚ
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(¯ ùÿÿÿÿ8‡²ÓÙ/
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(¶¯¿…8¬‚ÓÙ/
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(×±ò—8èá‚ÓÙ/
+C
+java:S1604"(Make this anonymous inner class a lambda(ßï¹Éıÿÿÿÿ
+>
+java:S1604"(Make this anonymous inner class a lambda(çÂËä
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì“Çšıÿÿÿÿ
+R
+java:S3655-"7Call "Optional#isPresent()" before accessing the value.(¯ ùÿÿÿÿ

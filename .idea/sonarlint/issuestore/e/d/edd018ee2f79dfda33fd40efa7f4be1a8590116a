@@ -1,0 +1,59 @@
+
+Q
+java:S1854N"6Remove this useless assignment to local variable "i5".(†ò€Ûúÿÿÿÿ
+Q
+java:S1854M"6Remove this useless assignment to local variable "i4".(À™Éƒÿÿÿÿÿ
+L
+java:S1854L"6Remove this useless assignment to local variable "i3".(çŸ£Ö
+K
+java:S1854K"6Remove this useless assignment to local variable "i2".(¿ƒš
+L
+java:S1854J"6Remove this useless assignment to local variable "i1".(¥Ÿó¹
+T
+java:S1854("9Remove this useless assignment to local variable "list1".(şş°Çùÿÿÿÿ
+S
+java:S1854'"8Remove this useless assignment to local variable "list".(È—Á­ùÿÿÿÿ
+m
+java:S6204'"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(È—Á­ùÿÿÿÿ
+D
+java:S1481'")Remove this unused "list" local variable.(È—Á­ùÿÿÿÿ
+m
+java:S6204("RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(şş°Çùÿÿÿÿ
+E
+java:S1481("*Remove this unused "list1" local variable.(şş°Çùÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(§‰
+J
+java:S36314"/Use "Arrays.stream" instead of "Arrays.asList".(¥õĞÂÿÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(¥õĞÂÿÿÿÿÿ
+J
+java:S36319"/Use "Arrays.stream" instead of "Arrays.asList".(İÃ¶‹üÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(İÃ¶‹üÿÿÿÿ
+A
+java:S2201>"+The return value of "collect" must be used.(™ğ³Ò
+h
+java:S6204>"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(™ğ³Ò
+E
+java:S3631>"/Use "Arrays.stream" instead of "Arrays.asList".(™ğ³Ò
+F
+java:S2201C"+The return value of "collect" must be used.(ÇöÔıÿÿÿÿ
+m
+java:S6204C"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÇöÔıÿÿÿÿ
+J
+java:S3631C"/Use "Arrays.stream" instead of "Arrays.asList".(ÇöÔıÿÿÿÿ
+J
+java:S1611I"/Remove the parentheses around the "x" parameter(ç¯ô¹ûÿÿÿÿ
+=
+java:S1481J"'Remove this unused "i1" local variable.(¥Ÿó¹
+<
+java:S1481K"'Remove this unused "i2" local variable.(¿ƒš
+=
+java:S1481L"'Remove this unused "i3" local variable.(çŸ£Ö
+B
+java:S1481M"'Remove this unused "i4" local variable.(À™Éƒÿÿÿÿÿ
+B
+java:S1481N"'Remove this unused "i5" local variable.(†ò€Ûúÿÿÿÿ
+m
+java:S6204P"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÄÇéşÿÿÿÿ
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(ÄÇéşÿÿÿÿ8‹ÏŠÒÙ/
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(Ù–¯Çùÿÿÿÿ8şá‘ÒÙ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( °ğı
